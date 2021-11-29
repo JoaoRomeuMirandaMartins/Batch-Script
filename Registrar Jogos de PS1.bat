@@ -1,3 +1,4 @@
+"C:\Program Files (x86)\PSXVCD\PSXVCD.exe"
 for /r %%p in (*) do (
  if %%~xp == .VCD (
   if not exist "..\APPS\%%~np\" (
